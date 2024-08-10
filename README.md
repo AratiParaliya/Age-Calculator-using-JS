@@ -22,19 +22,7 @@ Follow these steps to get the Age Calculator up and running on your local machin
 
 - A modern web browser (e.g., Chrome, Firefox, Safari)
 
-### Installation
 
-1. Clone the repository to your local machine using the following command:
-
-   ```
-   git clone https://github.com/AratiParaliya/Age-Calculator-using-JS.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```
-   cd Age-Calculator-using-JS
-   ```
 
 3. Open the `index.html` file in your web browser to launch the Age Calculator.
 
